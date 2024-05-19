@@ -38,8 +38,8 @@
                         </div>
                         <div class="row">
                             <div class="buttons padd-15">
-                                <a href="src/assets/docs/Curriculum%20Vitae.pdf" data-section-index="1"
-                                    download="Aldoo - CV.pdf" class="btn hire-me">Download CV</a>
+                                <a href="/docs/Curriculum%20Vitae.pdf" data-section-index="1" download="Aldoo - CV.pdf"
+                                    class="btn hire-me">Download CV</a>
                             </div>
                         </div>
                     </div>
